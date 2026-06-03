@@ -2,18 +2,15 @@
 
 <div align="center">
   
-  <!-- Title Badge -->
   <img src="https://img.shields.io/badge/const%20developer%20%3D%20%22Mahdi%22%3B-00F0FF?style=flat-square" alt="Developer Badge" />
   
   <br />
   <br />
   
-  <!-- Typing SVG for dynamic intro -->
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&lines=Web+Developer+%7C+Full+Stack;Java+%26+Minecraft+Mod+Dev;Cloudflare+Workers+Enthusiast;Advocate+for+Internet+Freedom" alt="Typing SVG" />
   
   <br />
 
-  <!-- Social & Info Badges -->
   <a href="https://github.com/MahdiAce02">
     <img src="https://img.shields.io/badge/GitHub-MahdiAce02-080a0f?style=flat-square&logo=github&logoColor=00F0FF" alt="GitHub" />
   </a>
@@ -38,7 +35,7 @@ My programming journey began in my early teens, fueled by a passion for **Minecr
 <details>
 <summary><b>🇮🇷 نسخه فارسی (Farsi Version)</b></summary>
 <p align="right" dir="rtl">
-سلام! من <strong>مهدی خوجانی</strong> هستم. مسیر حرفه‌ای من در جهان نرم‌افزار از دوران نوجوانی و با تشویق‌های مستمر دایی عزیزم شروع شد. علاقه فراوان من به دنیای بی‌پایان بازی مایندکرفت (Minecraft) محرکی شد تا زبان جاوا (Java) را فرا بگیرم و اولین پروژه‌هایم را با توسعه افزونه‌های اختصاصی برای این بازی شروع کنم.
+سلام! من <strong>مهدی خوجانی</strong> هستم. مسیر حرفه‌ای من در جهان نرم‌افزار از دوران نوجوانی و با تشویق‌های مستمر دایی عزیزم شروع شد. علاقه فراوان من به دنیای بی‌پایان بازی ماینکرفت (Minecraft) محرکی شد تا زبان جاوا (Java) را فرا بگیرم و اولین پروژه‌هایم را با توسعه افزونه‌های اختصاصی برای این بازی شروع کنم.
 </p>
 <p align="right" dir="rtl">
 با گذر زمان، تخصص خود را در حوزه وب گسترش دادم و بر مباحث مدرن فرانت‌اند و بک‌اند مسلط شدم و همواره روی نوشتن کدهای تمیز و بهینه تمرکز دارم. من فارغ‌التحصیل رشته علوم تجربی و ساکن شهر زیبای نیشابور هستم. همچنین طرفدار پروپاقرص آزادی اینترنت برای عموم مردم هستم و دسترسی آزاد به اطلاعات را حق مسلّم هر انسانی می‌دانم.
